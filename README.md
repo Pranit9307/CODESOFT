@@ -1,2 +1,2 @@
 # CODESOFT
-C++ INTERNSHI tasks
+C++ INTERNSHIP Tasks
